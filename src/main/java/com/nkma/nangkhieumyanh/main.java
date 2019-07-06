@@ -14,5 +14,7 @@ public class main {
         suites.add("./testng.xml");
         testNG.setTestSuites(suites);
         testNG.run();
+
+        //test jenkin
     }
 }
