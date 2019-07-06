@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite" thread-count="1" data-provider-thread-count="1" parallel="methods">
+    <test name="test">
+        <classes>
+            <class name="com.nkma.nangkhieumyanh.Scripts.NKMAScripts" />
+        </classes>
+    </test>
+</suite>

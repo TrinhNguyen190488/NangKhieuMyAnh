@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="25141" started-at="2019-07-06T07:22:25Z" finished-at="2019-07-06T07:22:51Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="25141" started-at="2019-07-06T07:22:25Z" finished-at="2019-07-06T07:22:51Z">
+      <class name="com.nkma.nangkhieumyanh.Scripts.NKMAScripts">
+        <test-method status="PASS" signature="setUpWebDriver()[pri:0, instance:com.nkma.nangkhieumyanh.Scripts.NKMAScripts@67f89fa3]" name="setUpWebDriver" is-config="true" duration-ms="10" started-at="2019-07-06T07:22:25Z" finished-at="2019-07-06T07:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpWebDriver -->
+        <test-method status="PASS" signature="listEvent()[pri:0, instance:com.nkma.nangkhieumyanh.Scripts.NKMAScripts@67f89fa3]" name="listEvent" duration-ms="11678" started-at="2019-07-06T07:22:25Z" finished-at="2019-07-06T07:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listEvent -->
+        <test-method status="PASS" signature="verifyBomonNangKhieuDisplay()[pri:0, instance:com.nkma.nangkhieumyanh.Scripts.NKMAScripts@67f89fa3]" name="verifyBomonNangKhieuDisplay" duration-ms="6376" started-at="2019-07-06T07:22:37Z" finished-at="2019-07-06T07:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBomonNangKhieuDisplay -->
+        <test-method status="PASS" signature="verifyIntroPageDisplay()[pri:0, instance:com.nkma.nangkhieumyanh.Scripts.NKMAScripts@67f89fa3]" name="verifyIntroPageDisplay" duration-ms="7059" started-at="2019-07-06T07:22:43Z" finished-at="2019-07-06T07:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIntroPageDisplay -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.nkma.nangkhieumyanh.Scripts.NKMAScripts@67f89fa3]" name="afterSuite" is-config="true" duration-ms="390" started-at="2019-07-06T07:22:56Z" finished-at="2019-07-06T07:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.nkma.nangkhieumyanh.Scripts.NKMAScripts -->
+    </test> <!-- test -->
+  </suite> <!-- suite -->
+</testng-results>
